@@ -1,6 +1,6 @@
 # 魅思视频管理系统getOrderStatus存在SQL注入漏洞
 
-魅思视频管理系统getOrderStatus存在SQL注入漏洞，允许攻击者通过恶意构造的SQL语句操控数据库，从而导致数据泄露、篡改或破坏，严重威胁系统安全。
+魅思视频管理系统getOrderStatus存在SQL注入漏洞，允许攻击者通过恶意构造的SQL语句操控数据库，从而导致数据泄露、篡改或破坏，严重威胁系统安全。fffff
 
 ## fofa
 
